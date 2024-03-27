@@ -31,6 +31,9 @@ O desafia da aula 1 foi:
 ## 🔗 Links
 Irei deixar aqui o link do meu resumo da imersão que eu preparei no Notion
 
+link do Colab 
+https://colab.research.google.com/drive/1HqyMEYpaN3CchUgRM5X6mIh5z13K9jcY
+
 
 
 
