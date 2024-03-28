@@ -23,13 +23,25 @@ Nesta aula, eu aprendi:
 - Conhecer o Google Colab;
 - Iniciar a manipulação de dados com Python Pandas.
 
-O desafia da aula 1 foi:
-- Crie um gráfico de barras olhando a faixa etária e o valor da variação;
-- Faça outro gráfico de barras com a faixa etária e a quantidade de empresas que estão em cada faixa etária;
-- Explore os tipos de gráficos com os dados já feitos.
+O desafia da aula 2 foi:
+- Criar um gráfico de barras olhando a faixa etária e o valor da variação;
+- Fazer outro gráfico de barras com a faixa etária e a quantidade de empresas que estão em cada faixa etária;
+- Explorar os tipos de gráficos com os dados já feitos.
+
+### Aula 3
+Nesta aula, eu aprendi:
+- Manipular dados com Pandas;
+- Transformar a planilha de ações com funções do Pandas;
+- Construir gráficos com a biblioteca Plotly Express;
+- Usar o Chat GPT durante o código.
+
+O desafia da aula 3 foi:
+- Pesquisar com a documentação da biblioteca Plotly ou GPT como mudar a formatação dos números do gráfico de barras;
+- Fazer o gráfico de pizza no df_análise_segmentos com a mesma biblioteca Potly;
+- Fazer o GroupBy da categoria de idades e gerar o gráfico de barras.
 
 ## 🔗 Links
-Irei deixar aqui o link do meu resumo da imersão que eu preparei no Notion
+Deizarei aqui o link do meu resumo da imersão que preparei no Notion 📔
 
 link do Colab 
 https://colab.research.google.com/drive/1HqyMEYpaN3CchUgRM5X6mIh5z13K9jcY
