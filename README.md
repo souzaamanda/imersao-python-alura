@@ -46,9 +46,6 @@ O desafia da aula 3 foi:
 ## 🔗 Links
 Deizarei aqui o link do meu resumo da imersão que preparei no Notion 📔
 
-link do Colab 
-https://colab.research.google.com/drive/1HqyMEYpaN3CchUgRM5X6mIh5z13K9jcY
-
 
 
 
