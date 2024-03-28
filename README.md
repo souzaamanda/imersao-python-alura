@@ -15,6 +15,7 @@ O desafia da aula 1 foi:
 - Fazer os cálculos com as colunas de porcentagem (variação semanal; mensal; anual e 12 meses);
 - Pegar via Chat GPT as faixas de idade;
 - Pedir para o GPT gerar a fórmula IF para as faixas de idade
+![image](https://github.com/souzaamanda/imersao-python-alura/assets/80546584/4d9395bd-38af-4291-ad16-31d11c57a3d3)
 
 ### Aula 2
 Nesta aula, eu aprendi:
@@ -27,6 +28,8 @@ O desafia da aula 2 foi:
 - Criar um gráfico de barras olhando a faixa etária e o valor da variação;
 - Fazer outro gráfico de barras com a faixa etária e a quantidade de empresas que estão em cada faixa etária;
 - Explorar os tipos de gráficos com os dados já feitos.
+![image](https://github.com/souzaamanda/imersao-python-alura/assets/80546584/e122c0f3-d8c8-4932-af5b-347c58bd9ddf)
+
 
 ### Aula 3
 Nesta aula, eu aprendi:
