@@ -52,6 +52,8 @@ Nesta aula, eu aprendi:
 O desafia da aula 4 foi:
 - Pesquisar o que é uma tupla em Python;
 - Buscar a ação da Apple e recriar o gráfico de Candlestick usando a biblioteca MPLFinance
+![image](https://github.com/souzaamanda/imersao-python-alura/assets/80546584/226dfc2e-0180-4095-92d6-9e9fa71910a7)
+
 
 ## 🔗 Links
 Fiz um resumo no Notion com os principais códigos usados na Imersão Python. Fique a vontade para duplicar o template no seu Notion e aprimorar os estudos.
