@@ -54,6 +54,11 @@ O desafia da aula 4 foi:
 - Buscar a ação da Apple e recriar o gráfico de Candlestick usando a biblioteca MPLFinance
 ![image](https://github.com/souzaamanda/imersao-python-alura/assets/80546584/226dfc2e-0180-4095-92d6-9e9fa71910a7)
 
+### Aula 5
+Nesta aula, eu aprendi:
+- Introdução ao Machine Learning;
+- Revisar ferramentas aprendidas durante a Imersão;
+- Conhecer mais sobre as carreiras no mercado de dados.
 
 ## 🔗 Links
 Fiz um resumo no Notion com os principais códigos usados na Imersão Python. Fique a vontade para duplicar o template no seu Notion e aprimorar os estudos.
