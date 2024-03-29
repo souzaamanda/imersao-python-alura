@@ -54,8 +54,6 @@ O desafia da aula 4 foi:
 - Buscar a ação da Apple e recriar o gráfico de Candlestick usando a biblioteca MPLFinance
 
 ## 🔗 Links
-Deizarei aqui o link do meu resumo da imersão que preparei no Notion 📔
-
-
-
+[![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=ffdd54)]([https://discord.com/channels/@souzaamanda/](https://boom-quark-adb.notion.site/Imers-o-Python-Alura-8980e1d83ad1429daa7ffd407379d6ba?pvs=4))
+Fiz um resumo no Notion com os principais códigos usados na Imersão Python. Fique a vontade para duplicar o template no seu Notion e aprimorar os estudos.
 
